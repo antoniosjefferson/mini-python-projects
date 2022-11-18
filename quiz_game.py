@@ -14,14 +14,14 @@ if answer == "2":
     print("Unfortunately, yes :(")
     score += 1
 else:
-    print("Are you an idiot?")
+    print("Are you serious right now??")
 
 answer = input("Please tell me you know syringes? ")
 
 if answer.lower() == "4":
-    print("YOU SMART")
+    print("WOW SO SMART")
     score += 1
 else:
-    print("Definitely an idiot")
+    print("You need to do better")
 
 print("Your score is " + str(score))
